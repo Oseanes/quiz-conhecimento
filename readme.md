@@ -41,4 +41,4 @@ O objetivo deste site é oferecer uma forma divertida e educacional de aprender 
 
 ---
 
-Criado por [Seu Nome].
+Criado por Oseanes Farias.
