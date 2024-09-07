@@ -16,10 +16,16 @@ O site foi desenvolvido usando as seguintes tecnologias:
 - **CSS**: Estilização e layout do site, proporcionando uma experiência visual atraente.
 - **JavaScript**: Lógica do quiz, incluindo a verificação de respostas e feedback ao usuário.
 
+## Implantação
+
+O site foi implantado utilizando a plataforma **Vercel**, que permite uma hospedagem rápida e eficiente para projetos front-end.
+
+- Acesse o site [aqui](https://seu-projeto-vercel.vercel.app).
+
 ## Como Usar
 
 1. Acesse o site.
-2. Responda às perguntas.
+2. Responda às perguntas de múltipla escolha.
 3. Receba feedback instantâneo sobre suas respostas.
 4. Continue testando seus conhecimentos com novas perguntas.
 
@@ -27,12 +33,12 @@ O site foi desenvolvido usando as seguintes tecnologias:
 
 - **index.html**: Página principal que contém o quiz.
 - **style.css**: Arquivo de estilo que define a aparência do site.
-- **app.js**: Arquivo JavaScript responsável pela lógica do quiz.
+- **script.js**: Arquivo JavaScript responsável pela lógica do quiz.
 
 ## Objetivo
 
 O objetivo deste site é oferecer uma forma divertida e educacional de aprender sobre ciências, promovendo a curiosidade e o aprendizado contínuo.
 
 ---
-ACESSE O SITE: https://quiz-conhecimento.vercel.app
-Criado por Oseanes Dias de Farias!
+
+Criado por [Seu Nome].
