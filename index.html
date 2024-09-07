@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EAI! VOCÊ SABE?</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    
+   <div class="container">
+    <header>
+        <h1>EAI! VOCÊ SABE?</h1>
+       </header>
+    
+        <main >
+            <section class="opcao">   
+                <p><span id="pergunta"></span></p>
+                <div id="respostas">
+                    <label>
+                        <input type="checkbox" id="resposta-sim" value="true">
+                        Sim
+                    </label>
+                    <label>
+                        <input type="checkbox" id="resposta-nao" value="false">
+                        Não
+                    </label>
+                </div>
+                <button onclick="proximaPergunta()">Próxima Pergunta</button>
+                <p id="resultado"></p>
+            </section>
+            <br>
+            <br>
+            
+        </main>  
+        
+        <section>
+            <div id="informacaos-tema">
+               <p></p>
+            </div>
+        </section>
+
+        <footer>
+            <p>&copy; Todos os direitos reservados.</p>
+            <p>Política de Privacidade | Termos de Uso</p>
+        </footer>
+    
+        <script src="app.js"></script>
+        <script src="dados.js"></script>
+   </div>
+</body>
+</html>
