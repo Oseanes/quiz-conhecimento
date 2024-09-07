@@ -34,5 +34,5 @@ O site foi desenvolvido usando as seguintes tecnologias:
 O objetivo deste site é oferecer uma forma divertida e educacional de aprender sobre ciências, promovendo a curiosidade e o aprendizado contínuo.
 
 ---
-
+ACESSE O SITE: https://quiz-conhecimento.vercel.app
 Criado por Oseanes Dias de Farias!
